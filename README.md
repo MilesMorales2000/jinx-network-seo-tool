@@ -4,7 +4,7 @@
 Free tool to generate perfect meta tags for SEO and social media.
 
 🚀 **Live Demo:** [your-url]
-📢 **Telegram:** [https://t.me/jinxnetwork]
+📢 **Telegram:** [https://t.me/jinx_network]
 
 ## Features
 - Live preview of Google & social media
