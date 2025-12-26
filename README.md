@@ -3,7 +3,7 @@
 
 Free tool to generate perfect meta tags for SEO and social media.
 
-🚀 **Live Demo:** [your-url]
+🚀 **Live Demo:** https://jinx-network-seo-tool.netlify.app/
 📢 **Telegram:** [https://t.me/jinx_network]
 
 ## Features
